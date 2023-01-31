@@ -1,3 +1,3 @@
 import controller as c
 
-c.calc()
+c.start()
